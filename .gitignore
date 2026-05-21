@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual enviroment
+venv/
+.env/
+
+#jupyter
+.ipynb_checkpoints/
+
+#VScode
+.vscode/
+

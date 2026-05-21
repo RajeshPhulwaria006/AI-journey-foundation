@@ -1,0 +1,32 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+jupyter
+notebook
+ipykernel
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# Data Visualization
+seaborn
+
+# Model Saving / Pipelines
+joblib
+pickle-mixin
+
+# Utilities
+tqdm
+
+# Optional (recommended for experiments)
+opencv-python
+pillow
+
+# XGBoost
+xgboost

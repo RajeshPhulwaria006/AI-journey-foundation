@@ -1,0 +1,16 @@
+company,job,degree,salary
+google,sales,bachelors,10000
+google,sales,bachelors,15000
+google,progarmmer,master,25000
+microsoft,progarmmer,master,23000
+ibm,sales,bachelors,21000
+ibm,manager,master,45000
+microsoft,sales,master,50000
+google,manager,bachelors,25000
+facebook,progarmmer,bachelors,30000
+facebook,manager,master,36000
+google,manager,bachelors,40000
+ibm,progarmmer,master,45000
+microsoft,progarmmer,bachelors,25000
+facebook,sales,master,30000
+ibm,progarmmer,bachelors,32000
