@@ -75,6 +75,10 @@ rather than only using high-level abstractions.
 │   │   ├── 📄 CNN implementation_pytorch.ipynb
 │   │   ├── 📄 cat_v_dog-CNN prediction.ipynb
 │   │   └── 📄 leNet_architecture.ipynb
+|   |
+│   ├── 📁 RNNs
+│   │   ├── 📄 Q&A_system_RNN.ipynb
+│   │   └── 📄 RNN_inuition.ipynb
 │   │
 │   └── 📁 PyTorch
 │       ├── 📄 NN_module.ipynb
