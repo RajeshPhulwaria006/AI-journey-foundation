@@ -79,6 +79,10 @@ rather than only using high-level abstractions.
 │   ├── 📁 RNNs
 │   │   ├── 📄 Q&A_system_RNN.ipynb
 │   │   └── 📄 RNN_inuition.ipynb
+|   |
+│   ├── 📁 Transformers
+│   │   ├── 📄 positional_encoding scratch.ipynb
+│   │   └── 📄 self-attention_implementation.ipynb
 │   │
 │   └── 📁 PyTorch
 │       ├── 📄 NN_module.ipynb
@@ -94,6 +98,7 @@ rather than only using high-level abstractions.
 │   ├── 🐍 StudentPerformancePredictions.py
 │   ├── 📄 dropout-notebook.ipynb
 │   ├── 📄 perceptron-loss_function.ipynb
+│   ├── 📄 lang_modeling_LSTM.ipynb
 │   └── 📄 titanic-using-pipeline.ipynb
 │
 ├── 📁 machine learning
