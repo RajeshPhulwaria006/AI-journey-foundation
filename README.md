@@ -82,6 +82,7 @@ rather than only using high-level abstractions.
 |   |
 │   ├── 📁 Transformers
 │   │   ├── 📄 positional_encoding scratch.ipynb
+│   │   ├── 📄 Transformer_EncoderBlock_scratch.ipynb
 │   │   └── 📄 self-attention_implementation.ipynb
 │   │
 │   └── 📁 PyTorch
