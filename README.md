@@ -77,12 +77,14 @@ rather than only using high-level abstractions.
 │   │   └── 📄 leNet_architecture.ipynb
 |   |
 │   ├── 📁 RNNs
-│   │   ├── 📄 Q&A_system_RNN.ipynb
+│   │   ├── 📄 Q\&A_system_RNN.ipynb
 │   │   └── 📄 RNN_inuition.ipynb
 |   |
 │   ├── 📁 Transformers
 │   │   ├── 📄 positional_encoding scratch.ipynb
 │   │   ├── 📄 Transformer_EncoderBlock_scratch.ipynb
+│   │   ├── 📄 eng_hindi_translator.ipynb
+│   │   ├── 📄 Transformer_Archtecture_NumPy.ipynb
 │   │   └── 📄 self-attention_implementation.ipynb
 │   │
 │   └── 📁 PyTorch
@@ -100,6 +102,7 @@ rather than only using high-level abstractions.
 │   ├── 📄 dropout-notebook.ipynb
 │   ├── 📄 perceptron-loss_function.ipynb
 │   ├── 📄 lang_modeling_LSTM.ipynb
+│   ├── 📄 eng_hindi_translation.ipynb
 │   └── 📄 titanic-using-pipeline.ipynb
 │
 ├── 📁 machine learning
