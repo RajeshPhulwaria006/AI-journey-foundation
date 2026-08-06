@@ -76,6 +76,13 @@ rather than only using high-level abstractions.
 │   │   ├── 📄 cat_v_dog-CNN prediction.ipynb
 │   │   └── 📄 leNet_architecture.ipynb
 |   |
+│   ├── 📁 NLP
+│   │   ├── 📄 got-book-word2vec.ipynb
+│   │   ├── 📄 Text_Preprocessing_NLP.ipynb
+│   │   ├── 📄 text-preprocessing-imdb.ipynb
+│   │   ├── 📄 word2vec_Google_news_gensim.ipynb
+│   │   └── 📄 Text_Vectorization.ipynb
+|   |
 │   ├── 📁 RNNs
 │   │   ├── 📄 Q\&A_system_RNN.ipynb
 │   │   └── 📄 RNN_inuition.ipynb
@@ -250,6 +257,28 @@ Projects & Concepts:
 - CNN Implementation using PyTorch
 - Cat vs Dog Classification
 - LeNet Architecture
+
+---
+## 📝 Natural Language Processing (NLP)
+Projects & Implementations:
+- NLP Pipeline Implementation
+- Text Preprocessing on IMDb Movie Reviews Dataset
+- Training Word2Vec on Game of Thrones Books Corpus (Kaggle)
+- Using Pre-trained Google News Word2Vec Embeddings
+- Comparison of Custom vs Pre-trained Embeddings
+- Hands-on NLP Experiments with Real-world Datasets
+
+---
+
+## 🤖 Transformers & Attention Mechanisms
+Projects & Implementations:
+
+- Scaled Dot-Product Attention
+- Self-Attention Mechanism (from Scratch)
+- Positional Encoding
+- Transformer Encoder Architecture
+- Transformer Decoder Architecture
+- Complete Encoder–Decoder Transformer (from Scratch)
 
 ---
 
