@@ -76,6 +76,7 @@ rather than only using high-level abstractions.
 │   │   ├── 📄 cat_v_dog-CNN prediction.ipynb
 │   │   ├── 📄 data_augmentation_keras.ipynb
 │   │   ├── 📄 visualising_CNN.ipynb
+│   │   ├── 📄 transfer_learning_featureExtraction_keras.ipynb
 │   │   ├── 📄 ResNet_pretrained_model_keras.ipynb
 │   │   └── 📄 leNet_architecture.ipynb
 |   |
