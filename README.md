@@ -75,6 +75,7 @@ rather than only using high-level abstractions.
 │   │   ├── 📄 CNN implementation_pytorch.ipynb
 │   │   ├── 📄 cat_v_dog-CNN prediction.ipynb
 │   │   ├── 📄 data_augmentation_keras.ipynb
+│   │   ├── 📄 visualising_CNN.ipynb
 │   │   ├── 📄 ResNet_pretrained_model_keras.ipynb
 │   │   └── 📄 leNet_architecture.ipynb
 |   |
